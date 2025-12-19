@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4379bbc1-b742-4246-ae8c-1c48a8d5613d">
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4508fc10-d84f-44da-930c-0ff4669c8108">
   <producedTypes>
-    <managerType typeId="17d129f4-e643-491d-b662-10c2f21b25d1" valueTypeId="8a47ace3-0f00-487f-b430-c2ee14e50764"/>
-    <valueManagerType typeId="a45eb2e5-3442-45bd-9a97-3e66ace0c569" valueTypeId="810723f4-32ed-412b-91b7-f30398bfa52c"/>
-    <valueKeyType typeId="56553535-096a-45d7-b941-fe12fa25293b" valueTypeId="b17490ea-0d67-4d38-92e6-e0146b290d39"/>
+    <managerType typeId="7a7e3606-7c86-4cca-a7c5-716c4fa939e1" valueTypeId="76f1aee7-86c9-454b-b204-9ee18d8cc245"/>
+    <valueManagerType typeId="ec4c18a6-51e5-458a-a7e3-0482d025855e" valueTypeId="38e47aef-8012-4ebe-a1a5-9c60c8b06462"/>
+    <valueKeyType typeId="46ecfc48-d8a0-412b-a735-a6405caf8c62" valueTypeId="2e3e516e-ab96-4ee5-af82-b11f6d4b825c"/>
   </producedTypes>
   <name>DemoConfDT</name>
   <synonym>
